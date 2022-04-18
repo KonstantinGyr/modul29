@@ -1,0 +1,3 @@
+C:/Users/Kot/CLionProjects/hw29/animal_meeting/cmake-build-debug/CMakeFiles/animal_meeting.dir
+C:/Users/Kot/CLionProjects/hw29/animal_meeting/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Kot/CLionProjects/hw29/animal_meeting/cmake-build-debug/CMakeFiles/rebuild_cache.dir
